@@ -1,0 +1,23 @@
+{
+  "name": "task-manager-cli",
+  "version": "1.0.0",
+  "description": "Project for to-do list application using CLI",
+  "license": "ISC",
+  "author": "priyanshsharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "task-manager": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yargs": "^18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psharma-dev/cloudsmith-api-assessment.git"
+  },
+  "keywords": ["task", "cli", "todo", "nodejs"]
+}
