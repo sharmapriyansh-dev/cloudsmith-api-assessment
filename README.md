@@ -5,7 +5,7 @@ This repository contains the complete documentation and evidence of my Cloudsmit
 Included in this repo are:
 
 - Step-by-step markdown documentation for each task of the assessment
-- Screenshots capturing POSTMAN response and command executions
+- Screenshots capturing POSTMAN response and CURL requests
 - Structured directories separating docs and assets for clarity
 
 This project highlights practical usage of Cloudsmith API in real-world scenarios, such as repository creation, package management, token generation, and account policy setup. The repository is also configured to publish via GitHub Pages for easy review and presentation.
